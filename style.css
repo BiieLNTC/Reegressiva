@@ -21,6 +21,14 @@
         font-family: Arial, Helvetica, sans-serif;
     }
 
+    h2 {
+        text-align: center;
+        color: #ffffff;
+        text-shadow: 10px 10px 10px black;
+        font-size: 3rem;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
     .contador li {
         font-family: Georgia, 'Times New Roman', Times, serif;
         font-style: italic;
@@ -44,7 +52,7 @@
         height: 100vh;
         display: grid;
         align-items: center;
-        background-image: url(./img/ryans-girafa.jpg);
+        background-image: url(./img/wallpaper.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;    
@@ -55,6 +63,14 @@
         color: #ffffff;
         text-shadow: 10px 10px 10px black;
         font-size: 2rem;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h2 {
+        text-align: center;
+        color: #ffffff;
+        text-shadow: 10px 10px 10px black;
+        font-size: 1rem;
         font-family: Arial, Helvetica, sans-serif;
     }
 
@@ -82,7 +98,7 @@
         height: 100vh;
         display: grid;
         align-items: center;
-        background-image: url(./img/ryans-girafa.jpg);
+        background-image: url(./img/wallpaper.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;    
@@ -93,6 +109,14 @@
         color: #ffffff;
         text-shadow: 10px 10px 10px black;
         font-size: 8rem;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h2 {
+        text-align: center;
+        color: #ffffff;
+        text-shadow: 10px 10px 10px black;
+        font-size: 3rem;
         font-family: Arial, Helvetica, sans-serif;
     }
 
